@@ -1,0 +1,5 @@
+Big oh notation:0(n)
+Time complexity is to be computed in worst case scanerio..
+avoid constant
+
+Best case:Minimum no of time taken
